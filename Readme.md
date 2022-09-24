@@ -16,4 +16,4 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 * Inspect each table given in the subsequent tabs and understand the features associated with each of them.
 * Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
  
-<h6><i>If you don't wish to perform the data loading part, you can directly download the SQL script file given above(IMDB+dataset+import.sql) containing all the commands and data required for the database creation and start directly with the querying.</i></h6>
+<h5><i>If you don't wish to perform the data loading part, you can directly download the SQL script file given above(IMDB+dataset+import.sql) containing all the commands and data required for the database creation and start directly with the querying.</i></h5>
